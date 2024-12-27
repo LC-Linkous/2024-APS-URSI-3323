@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Linkous"
+  given-names: "Lauren"
+  orcid: "https://orcid.org/0000-0001-9945-5125"
+title: "2024-URSI-NRSM-1265"
+version: 1.0
+date-released: 2024-02-01
+url: "https://github.com/LC-Linkous/2024-URSI-NRSM-1265"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Linkous"
+    given-names: "Lauren"
+    orcid: "https://orcid.org/0000-0001-9945-5125"
+  - family-names: "Lundquist"
+    given-names: "Jonathan"
+    orcid: "https://orcid.org/0000-0002-2351-0535
+  - family-names: "Suche"
+    given-names: "Michael"
+    orcid: "https://orcid.org/0009-0006-4467-5941"
+  - family-names: "Topsakal"
+    given-names: "Erdem"
+  doi: "10.23919/INC-USNC-URSI61303.2024.10632482"
+  conference: "2024 IEEE INC-USNC-URSI Radio Science Meeting (Joint with AP-S Symposium)"
+  title: "Machine Learning Assisted Hyperparameter Tuning for Optimization"
+  url: "https://ieeexplore.ieee.org/abstract/document/10632482"
+  year: 2024
