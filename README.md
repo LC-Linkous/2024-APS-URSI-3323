@@ -11,34 +11,49 @@ Redirected from [PSO_datacollection](https://github.com/LC-Linkous/PSO_datacolle
 * [How to Use](#how-to-use)
 * [Datasets](#datasets)
 * [Tutorials and Examples](#tutorials-and-examples)
+* [Code Repositories](#code-repositories)
 * [Resources](#resources)
 * [Related Publications](#future-work)
 * [How to Cite](#how-to-cite)
 
 
 ## Requirements
-* The majority of this project is designed to run in Google Colab with Jupyter Notebook. You must have a Google account to run these tutorials as-is. The Jupyter Notebook files in this repository run individually. Library requirements for each tutorial may vary. Refer to a tutorial for the specific requirements.
+
+* The main example is designed to run in Google Colab with Jupyter Notebook. You must have a Google account to run these as-is. The Jupyter Notebook file(s) in this repository run individually. Library requirements for each tutorial and example may vary. Refer to a tutorial or example for the specific requirements.
 
 * Linked repositories featuring optimizers have their own requirements, and will require a Python environment.
 
 
 ## How to Use
-* To run, you will need to create a folder in your Google Drive, and add the specified datasets  and all tutorials into the same folder.
-
+* To run, you will need to create a folder in your Google Drive, and add the dataset and all tutorials into the same folder.
+* The optimizer repositories were designed to run locally in an IDE. As such, they will not run in Jupyter Notebook as-is and some modification is needed.
+  
 
 ## Datasets
 
 To be added closer to the conference
 
-
 ## Tutorials and Examples
 
-To be added closer to the conference
 
 
-## Resources
 
-To be added closer to the conference
+## Code Repositories
+
+Optimizers are described in their individual repositories in order to keep the development information up to date. 
+
+
+| Base Optimizer | Alternate Version | Quantum-Inspired Optimizer | Surrogate Model Variations |
+| ------------- | ------------- | ------------- |------------- |
+| [pso_python](https://github.com/LC-Linkous/pso_python) | [pso_basic](https://github.com/LC-Linkous/pso_python/tree/pso_basic) | [pso_quantum](https://github.com/LC-Linkous/pso_python/tree/pso_quantum)  | |
+| [cat_swarm_python](https://github.com/LC-Linkous/cat_swarm_python) | [sand_cat_python](https://github.com/LC-Linkous/cat_swarm_python/tree/sand_cat_python)| [cat_swarm_quantum](https://github.com/LC-Linkous/cat_swarm_python/tree/cat_swarm_quantum) | |
+| [chicken_swarm_python](https://github.com/LC-Linkous/chicken_swarm_python) | [2015 improved chicken swarm](https://github.com/LC-Linkous/chicken_swarm_python/tree/improved_chicken_swarm) | [chicken_swarm_quantum](https://github.com/LC-Linkous/chicken_swarm_python/tree/chicken_swarm_quantum)  | |
+| [sweep_python](https://github.com/LC-Linkous/sweep_python)  | *alternates in base repo | -  | - |
+| [bayesian optimization_python](https://github.com/LC-Linkous/bayesian_optimization_python)  | -| - | *interchangeable surrogate models <br> included in base repo |
+| [multi_glods_python](https://github.com/LC-Linkous/multi_glods_python)| - | - | |
+
+
+
 
 ## Related Publications
 
